@@ -1,5 +1,5 @@
 # Titanic-PySci
-Kaggle's Titanic with Pytorch and sklearn
+Kaggle's Titanic with Pytorch and sci-kit learn
 
 Data handling, cleaning and feature selection has been performed, before using machine learning techniques.
 
